@@ -1,0 +1,121 @@
+[
+{
+"label": ["Bulgarian/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":60,"z":0,"r":5,"label":"Bulgarian"}]
+}
+,
+{
+"label": ["Danish/Indo-European-Germanic"],
+"data": [{"x":0,"y":20,"z":0,"r":5,"label":"Danish"}]
+}
+,
+{
+"label": ["German/Indo-European-Germanic"],
+"data": [{"x":0,"y":30,"z":0,"r":5,"label":"German"}]
+}
+,
+{
+"label": ["Greek/Indo-European"],
+"data": [{"x":0,"y":30,"z":0,"r":5,"label":"Greek"}]
+}
+,
+{
+"label": ["English/Indo-European-Germanic"],
+"data": [{"x":0,"y":40,"z":0,"r":5,"label":"English"}]
+}
+,
+{
+"label": ["Spanish/Indo-European-Romance"],
+"data": [{"x":0,"y":40,"z":0,"r":5,"label":"Spanish"}]
+}
+,
+{
+"label": ["French/Indo-European-Romance"],
+"data": [{"x":0,"y":40,"z":0,"r":5,"label":"French"}]
+}
+,
+{
+"label": ["Armenian/Indo-European"],
+"data": [{"x":0,"y":60,"z":0,"r":5,"label":"Armenian"}]
+}
+,
+{
+"label": ["Icelandic/Indo-European-Germanic"],
+"data": [{"x":0,"y":90,"z":0,"r":5,"label":"Icelandic"}]
+}
+,
+{
+"label": ["Italian/Indo-European-Romance"],
+"data": [{"x":0,"y":50,"z":0,"r":5,"label":"Italian"}]
+}
+,
+{
+"label": ["Latin/Indo-European-Romance"],
+"data": [{"x":0,"y":80,"z":0,"r":5,"label":"Latin"}]
+}
+,
+{
+"label": ["Norwegian/Indo-European-Germanic"],
+"data": [{"x":0,"y":20,"z":0,"r":5,"label":"Norwegian"}]
+}
+,
+{
+"label": ["Polish/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":50,"z":0,"r":5,"label":"Polish"}]
+}
+,
+{
+"label": ["Russian/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":70,"z":0,"r":5,"label":"Russian"}]
+}
+,
+{
+"label": ["Slovak/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":50,"z":0,"r":5,"label":"Slovak"}]
+}
+,
+{
+"label": ["Swedish/Indo-European-Germanic"],
+"data": [{"x":0,"y":20,"z":0,"r":5,"label":"Swedish"}]
+}
+,
+{
+"label": ["Belarusian/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":50,"z":0,"r":5,"label":"Belarusian"}]
+}
+,
+{
+"label": ["Czech/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":50,"z":0,"r":5,"label":"Czech"}]
+}
+,
+{
+"label": ["Hindi/Indo-European"],
+"data": [{"x":0,"y":20,"z":0,"r":5,"label":"Hindi"}]
+}
+,
+{
+"label": ["Naija/Indo-European-Germanic"],
+"data": [{"x":0,"y":10,"z":0,"r":5,"label":"Naija"}]
+}
+,
+{
+"label": ["OldEastSlavic/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":80,"z":0,"r":5,"label":"OldEastSlavic"}]
+}
+,
+{
+"label": ["OldFrench/Indo-European-Romance"],
+"data": [{"x":0,"y":60,"z":0,"r":5,"label":"OldFrench"}]
+}
+,
+{
+"label": ["Ukrainian/Indo-European-Baltoslavic"],
+"data": [{"x":0,"y":70,"z":0,"r":5,"label":"Ukrainian"}]
+}
+,
+{
+"label": ["WesternArmenian/Indo-European"],
+"data": [{"x":0,"y":50,"z":0,"r":5,"label":"WesternArmenian"}]
+}
+]
