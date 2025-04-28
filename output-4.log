@@ -1,0 +1,15 @@
+2025-04-27 21:24:03,649 - root - INFO - Test
+2025-04-27 21:24:07,331 - root - INFO - Test
+2025-04-27 21:24:11,177 - root - INFO - Test
+2025-04-27 21:24:11,784 - root - INFO - Test
+2025-04-27 21:24:11,910 - root - INFO - Test
+2025-04-27 21:24:12,039 - root - INFO - Test
+2025-04-27 21:24:12,173 - root - INFO - Test
+2025-04-27 21:25:14,143 - root - INFO - starting Arabic
+2025-04-27 21:25:14,232 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 21:25:14,447 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 21:25:14,516 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 21:25:14,572 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 21:25:14,683 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-27 21:25:14,883 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 21:25:15,202 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/generation_config.json HTTP/1.1" 404 0

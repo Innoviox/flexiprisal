@@ -1,0 +1,20 @@
+DEBUG:__main__:Test
+DEBUG:__main__:Test
+DEBUG:root:Test
+WARNING:root:Test
+INFO:root:Test
+INFO:root:Test
+INFO:root:Test
+INFO:root:Test
+INFO:root:Test
+INFO:root:Test
+INFO:root:Test
+INFO:root:Test
+INFO:root:starting Arabic
+DEBUG:urllib3.connectionpool:Resetting dropped connection: huggingface.co
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/vocab.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/generation_config.json HTTP/1.1" 404 0
