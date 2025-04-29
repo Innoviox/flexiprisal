@@ -13,3 +13,643 @@
 2025-04-27 21:25:14,683 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/vocab.json HTTP/1.1" 200 0
 2025-04-27 21:25:14,883 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/config.json HTTP/1.1" 200 0
 2025-04-27 21:25:15,202 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 21:27:15,238 - root - INFO - starting Arabic
+2025-04-27 21:27:15,472 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 21:27:15,531 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 21:27:15,590 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 21:27:15,647 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-27 21:27:15,828 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 21:27:15,995 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /aubmindlab/aragpt2-base/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 21:32:07,491 - root - INFO - finished Arabic
+2025-04-27 21:32:07,492 - root - INFO - starting Basque
+2025-04-27 21:32:07,555 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 21:32:07,689 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-basque-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 21:32:07,782 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-basque-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 21:32:07,850 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-basque-v2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 21:32:07,857 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-27 21:32:07,930 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-basque-v2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 21:32:08,024 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-basque-v2 HTTP/1.1" 200 1499
+2025-04-27 21:32:08,193 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-basque-v2/commits/main HTTP/1.1" 200 3437
+2025-04-27 21:32:08,279 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-basque-v2/discussions?p=0 HTTP/1.1" 200 729
+2025-04-27 21:32:08,424 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-basque-v2/commits/refs%2Fpr%2F1 HTTP/1.1" 200 4402
+2025-04-27 21:32:08,608 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-basque-v2/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 21:32:08,877 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-basque-v2/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-27 21:33:11,296 - root - INFO - finished Basque
+2025-04-27 21:33:11,297 - root - INFO - starting Belarusian
+2025-04-27 21:33:11,531 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-belorussian/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 21:33:11,680 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-belorussian/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 21:33:11,740 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-belorussian/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 21:33:11,797 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-belorussian HTTP/1.1" 200 1761
+2025-04-27 21:33:11,886 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-belorussian/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 21:33:11,983 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-belorussian/commits/main HTTP/1.1" 200 1770
+2025-04-27 21:33:12,044 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-belorussian/discussions?p=0 HTTP/1.1" 200 1274
+2025-04-27 21:33:12,149 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-belorussian/commits/refs%2Fpr%2F1 HTTP/1.1" 200 2735
+2025-04-27 21:33:12,384 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-belorussian/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 21:33:12,510 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-belorussian/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-27 22:05:12,588 - root - INFO - finished Belarusian
+2025-04-27 22:05:12,589 - root - INFO - starting Bulgarian
+2025-04-27 22:05:12,725 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 22:05:13,000 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rmihaylov/gpt2-small-bg/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 22:05:13,281 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rmihaylov/gpt2-small-bg/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:05:13,368 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rmihaylov/gpt2-small-bg/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 22:05:13,388 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-27 22:05:13,536 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rmihaylov/gpt2-small-bg/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 22:05:13,608 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/rmihaylov/gpt2-small-bg HTTP/1.1" 200 1631
+2025-04-27 22:05:13,851 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/rmihaylov/gpt2-small-bg/commits/main HTTP/1.1" 200 1063
+2025-04-27 22:05:14,017 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/rmihaylov/gpt2-small-bg/discussions?p=0 HTTP/1.1" 200 724
+2025-04-27 22:05:14,249 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/rmihaylov/gpt2-small-bg/commits/refs%2Fpr%2F1 HTTP/1.1" 200 2028
+2025-04-27 22:05:14,332 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rmihaylov/gpt2-small-bg/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 22:05:14,411 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rmihaylov/gpt2-small-bg/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-27 22:06:12,801 - root - INFO - finished Bulgarian
+2025-04-27 22:06:12,801 - root - INFO - starting Catalan
+2025-04-27 22:06:12,970 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-catalan-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 22:06:13,082 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-catalan-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:06:13,168 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-catalan-v2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 22:06:13,173 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-27 22:06:13,270 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-catalan-v2 HTTP/1.1" 200 1575
+2025-04-27 22:06:13,292 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-catalan-v2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 22:06:13,358 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-catalan-v2/commits/main HTTP/1.1" 200 5283
+2025-04-27 22:06:13,399 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-catalan-v2/discussions?p=0 HTTP/1.1" 200 730
+2025-04-27 22:06:13,577 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-small-catalan-v2/commits/refs%2Fpr%2F1 HTTP/1.1" 200 6248
+2025-04-27 22:06:13,612 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-catalan-v2/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 22:06:13,669 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-small-catalan-v2/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-27 22:09:08,580 - root - INFO - finished Catalan
+2025-04-27 22:09:08,581 - root - INFO - starting Chinese
+2025-04-27 22:09:08,736 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /uer/gpt2-chinese-cluecorpussmall/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 22:09:08,816 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /uer/gpt2-chinese-cluecorpussmall/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:09:08,891 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /uer/gpt2-chinese-cluecorpussmall/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 22:09:08,893 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-27 22:09:09,025 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/uer/gpt2-chinese-cluecorpussmall HTTP/1.1" 200 1947
+2025-04-27 22:09:09,034 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /uer/gpt2-chinese-cluecorpussmall/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 22:09:09,138 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/uer/gpt2-chinese-cluecorpussmall/commits/main HTTP/1.1" 200 4261
+2025-04-27 22:09:09,274 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/uer/gpt2-chinese-cluecorpussmall/discussions?p=0 HTTP/1.1" 200 4892
+2025-04-27 22:09:09,474 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/uer/gpt2-chinese-cluecorpussmall/commits/refs%2Fpr%2F8 HTTP/1.1" 200 5226
+2025-04-27 22:09:09,580 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /uer/gpt2-chinese-cluecorpussmall/resolve/refs%2Fpr%2F8/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 22:09:09,805 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /uer/gpt2-chinese-cluecorpussmall/resolve/refs%2Fpr%2F8/model.safetensors HTTP/1.1" 302 0
+2025-04-27 22:11:39,444 - root - INFO - finished Chinese
+2025-04-27 22:11:39,446 - root - INFO - starting Croatian
+2025-04-27 22:11:39,632 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 22:11:39,714 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:11:39,860 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 22:11:39,957 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-27 22:11:40,098 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:11:40,188 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 22:11:40,193 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 22:11:40,386 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 22:11:40,386 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/hr-gpt2 HTTP/1.1" 200 1235
+2025-04-27 22:11:40,513 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/hr-gpt2/commits/main HTTP/1.1" 200 1049
+2025-04-27 22:11:40,590 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/hr-gpt2/discussions?p=0 HTTP/1.1" 200 722
+2025-04-27 22:11:40,696 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/hr-gpt2/commits/refs%2Fpr%2F1 HTTP/1.1" 200 2014
+2025-04-27 22:11:40,763 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 22:11:40,910 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/hr-gpt2/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-27 22:13:19,133 - root - INFO - finished Croatian
+2025-04-27 22:13:19,135 - root - INFO - starting Czech
+2025-04-27 22:13:19,475 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /MU-NLPC/CzeGPT-2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 22:13:19,554 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /MU-NLPC/CzeGPT-2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:13:19,632 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /MU-NLPC/CzeGPT-2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 22:13:19,724 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /MU-NLPC/CzeGPT-2/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-27 22:13:19,847 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /MU-NLPC/CzeGPT-2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:13:20,001 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /MU-NLPC/CzeGPT-2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 22:17:09,111 - root - INFO - finished Czech
+2025-04-27 22:17:09,112 - root - INFO - starting Danish
+2025-04-27 22:17:09,370 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /KennethTM/gpt2-medium-danish/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 22:17:09,507 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /KennethTM/gpt2-medium-danish/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:17:09,712 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /KennethTM/gpt2-medium-danish/resolve/main/generation_config.json HTTP/1.1" 200 0
+2025-04-27 22:19:53,275 - root - INFO - finished Danish
+2025-04-27 22:19:53,276 - root - INFO - starting Dutch
+2025-04-27 22:19:53,444 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /yhavinga/gpt2-large-dutch/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 22:19:53,566 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /yhavinga/gpt2-large-dutch/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:19:53,813 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /yhavinga/gpt2-large-dutch/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 22:45:35,684 - root - INFO - finished Dutch
+2025-04-27 22:45:35,685 - root - INFO - starting English
+2025-04-27 22:45:35,797 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 22:45:36,047 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai-community/gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 22:45:36,360 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai-community/gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:45:36,731 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai-community/gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+2025-04-27 22:48:39,093 - root - INFO - finished English
+2025-04-27 22:48:39,095 - root - INFO - starting Estonian
+2025-04-27 22:48:39,306 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /tartuNLP/gpt-for-est-base/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 22:48:39,458 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /tartuNLP/gpt-for-est-base/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 22:48:39,544 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /tartuNLP/gpt-for-est-base/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 22:48:39,553 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 22:48:39,718 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /tartuNLP/gpt-for-est-base/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 22:48:39,779 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/tartuNLP/gpt-for-est-base HTTP/1.1" 200 1649
+2025-04-27 22:48:40,045 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/tartuNLP/gpt-for-est-base/commits/main HTTP/1.1" 200 3230
+2025-04-27 22:48:40,109 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/tartuNLP/gpt-for-est-base/discussions?p=0 HTTP/1.1" 200 1996
+2025-04-27 22:48:40,244 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/tartuNLP/gpt-for-est-base/commits/refs%2Fpr%2F3 HTTP/1.1" 200 4195
+2025-04-27 22:48:40,390 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /tartuNLP/gpt-for-est-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 22:48:40,575 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /tartuNLP/gpt-for-est-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/1.1" 302 0
+2025-04-27 23:01:43,558 - root - INFO - finished Estonian
+2025-04-27 23:01:43,559 - root - INFO - starting Finnish
+2025-04-27 23:01:43,624 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 23:01:44,015 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:01:44,157 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:01:44,217 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 23:01:44,336 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/main/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 23:01:44,399 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2025-04-27 23:01:44,431 - filelock - DEBUG - Attempting to acquire lock 15371737504 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/5070fde5ed7d34c5230f1c11aab6352b27c8e33a31ae77170bf4b44486d038d7.lock
+2025-04-27 23:01:44,432 - filelock - DEBUG - Lock 15371737504 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/5070fde5ed7d34c5230f1c11aab6352b27c8e33a31ae77170bf4b44486d038d7.lock
+2025-04-27 23:01:44,439 - urllib3.connectionpool - DEBUG - Resetting dropped connection: cdn-lfs.hf.co
+2025-04-27 23:01:44,736 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /Finnish-NLP/gpt2-medium-finnish/5070fde5ed7d34c5230f1c11aab6352b27c8e33a31ae77170bf4b44486d038d7?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1745812904&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgxMjkwNH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9GaW5uaXNoLU5MUC9ncHQyLW1lZGl1bS1maW5uaXNoLzUwNzBmZGU1ZWQ3ZDM0YzUyMzBmMWMxMWFhYjYzNTJiMjdjOGUzM2EzMWFlNzcxNzBiZjRiNDQ0ODZkMDM4ZDc~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=Hxzq2nWNr3I3NQcC3Z3Dp7FtkdMudp-jEEynTm1j2Lp~832zsZRx1uzPHq6tmhQGc7VhqVWb2DQAK2KzWYAeMFinFecenojRaB9E4AoUxoAgF131jgbkaUH2SzkpDdi0ywt2USYuG2Vmq8kogHXxY2zjvD~HFM16J73u3s6gWcAwaotFqBhyGBj3VvI~JVRudx9882Somi8FIjVB4r1ebYiT7~lDc~WCb0iw5w475yspR9U-C5Xmq5yL90O6M6MuPyWBDUy6eUMRfLZ2Owb-e3-JT1W76klTab2RLjrsp-wZvI7gbcreXNnYS2FqPgR5PUPj65zgioIqYbN10ZGZ0Q__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 1444576537
+2025-04-27 23:02:31,395 - filelock - DEBUG - Attempting to release lock 15371737504 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/5070fde5ed7d34c5230f1c11aab6352b27c8e33a31ae77170bf4b44486d038d7.lock
+2025-04-27 23:02:31,397 - filelock - DEBUG - Lock 15371737504 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/5070fde5ed7d34c5230f1c11aab6352b27c8e33a31ae77170bf4b44486d038d7.lock
+2025-04-27 23:02:31,531 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 23:02:31,549 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-27 23:02:31,680 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/Finnish-NLP/gpt2-medium-finnish HTTP/1.1" 200 1919
+2025-04-27 23:02:31,686 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 23:02:31,822 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/Finnish-NLP/gpt2-medium-finnish/commits/main HTTP/1.1" 200 13275
+2025-04-27 23:02:32,061 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/Finnish-NLP/gpt2-medium-finnish/discussions?p=0 HTTP/1.1" 200 733
+2025-04-27 23:02:32,282 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/Finnish-NLP/gpt2-medium-finnish/commits/refs%2Fpr%2F1 HTTP/1.1" 200 14240
+2025-04-27 23:02:32,438 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 23:02:32,652 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Finnish-NLP/gpt2-medium-finnish/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-27 23:02:33,022 - filelock - DEBUG - Attempting to acquire lock 14877252096 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/91f42ed96cdaf958d8c35b697f692771da412026016fae2bcc09cc10a6c1c16f.lock
+2025-04-27 23:02:33,034 - filelock - DEBUG - Lock 14877252096 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/91f42ed96cdaf958d8c35b697f692771da412026016fae2bcc09cc10a6c1c16f.lock
+2025-04-27 23:02:33,037 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2025-04-27 23:02:33,443 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /Finnish-NLP/gpt2-medium-finnish/91f42ed96cdaf958d8c35b697f692771da412026016fae2bcc09cc10a6c1c16f?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1745812952&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgxMjk1Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9GaW5uaXNoLU5MUC9ncHQyLW1lZGl1bS1maW5uaXNoLzkxZjQyZWQ5NmNkYWY5NThkOGMzNWI2OTdmNjkyNzcxZGE0MTIwMjYwMTZmYWUyYmNjMDljYzEwYTZjMWMxNmY~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=HHCUHf6cXdUVmVaF7keQslfWYG11RtqQRCymkBZWipbye5lyAjGa2XtTY-aQERreGhCrZRtWrdqLg~4jyLlpRArMUYIqzHwF0PXg-8xYKYn~k5Wg8SzdtP8O9gu5x8t39D9vHHcokvA3g9HZ-s~qJvE04hhoMbbsRZebLekS88tgVjdQ~w7Yi0VIXwWqJrU2tOSeNKftrhLGgyceRz7vfWGn0WTQ2qevz3s-3SEvoUroGDFrU1faYCmBnj79ogg3GIu~nPsdvs8hlBts9FjsxAs5ZKsG3sYiS6gdymHivAfwHvgSRvXaW6JamP0h7wy4DUvLc2bZb~wLvexjQT3wew__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 1444493752
+2025-04-27 23:03:26,428 - filelock - DEBUG - Attempting to release lock 14877252096 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/91f42ed96cdaf958d8c35b697f692771da412026016fae2bcc09cc10a6c1c16f.lock
+2025-04-27 23:03:26,430 - filelock - DEBUG - Lock 14877252096 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--Finnish-NLP--gpt2-medium-finnish/91f42ed96cdaf958d8c35b697f692771da412026016fae2bcc09cc10a6c1c16f.lock
+2025-04-27 23:08:27,278 - root - INFO - finished Finnish
+2025-04-27 23:08:27,279 - root - INFO - starting French
+2025-04-27 23:08:27,391 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 23:08:27,600 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-base-french/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:08:27,685 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-base-french/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:08:27,741 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-base-french/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 23:08:27,743 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-27 23:08:27,786 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-base-french HTTP/1.1" 200 1595
+2025-04-27 23:08:27,802 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-base-french/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 23:08:27,887 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-base-french/commits/main HTTP/1.1" 200 7665
+2025-04-27 23:08:27,944 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-base-french/discussions?p=0 HTTP/1.1" 200 725
+2025-04-27 23:08:28,159 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ClassCat/gpt2-base-french/commits/refs%2Fpr%2F1 HTTP/1.1" 200 8630
+2025-04-27 23:08:28,208 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-base-french/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 23:08:28,249 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ClassCat/gpt2-base-french/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-27 23:11:35,275 - root - INFO - finished French
+2025-04-27 23:11:35,276 - root - INFO - starting German
+2025-04-27 23:11:35,390 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,418 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:11:35,443 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,468 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/vocab.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,496 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/merges.txt HTTP/1.1" 404 0
+2025-04-27 23:11:35,523 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,547 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,572 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,774 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-27 23:11:35,841 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,907 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:11:35,940 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:35,979 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/vocab.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,014 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/merges.txt HTTP/1.1" 404 0
+2025-04-27 23:11:36,040 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,073 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,101 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,127 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-27 23:11:36,195 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,305 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:11:36,342 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,368 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/vocab.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,393 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/merges.txt HTTP/1.1" 404 0
+2025-04-27 23:11:36,419 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,442 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,471 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-27 23:11:36,496 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/german-gpt2/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-27 23:11:36,538 - root - ERROR - ERROR ON LANG German
+2025-04-27 23:11:36,538 - root - ERROR - [-] expected str, bytes or os.PathLike object, not NoneType
+2025-04-27 23:11:36,549 - root - INFO - starting Hebrew
+2025-04-27 23:11:36,606 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Norod78/Hebrew-GPT2-345M-Stage/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:11:36,663 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Norod78/Hebrew-GPT2-345M-Stage/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:11:36,821 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Norod78/Hebrew-GPT2-345M-Stage/resolve/main/generation_config.json HTTP/1.1" 200 0
+2025-04-27 23:21:25,307 - root - INFO - finished Hebrew
+2025-04-27 23:21:25,308 - root - INFO - starting Hindi
+2025-04-27 23:21:25,380 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 23:21:25,520 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /surajp/gpt2-hindi/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:21:25,603 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /surajp/gpt2-hindi/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:21:25,675 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /surajp/gpt2-hindi/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 23:27:48,943 - root - INFO - finished Hindi
+2025-04-27 23:27:48,944 - root - INFO - starting Indonesian
+2025-04-27 23:27:49,005 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 23:27:49,222 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /indonesian-nlp/gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:27:49,321 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /indonesian-nlp/gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:27:49,435 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /indonesian-nlp/gpt2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 23:29:25,294 - root - INFO - finished Indonesian
+2025-04-27 23:29:25,295 - root - INFO - starting Irish
+2025-04-27 23:29:25,432 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /jbarry/irish-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:29:25,660 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /jbarry/irish-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:29:25,754 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /jbarry/irish-gpt2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-27 23:29:25,761 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-27 23:29:25,877 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /jbarry/irish-gpt2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 23:29:25,892 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/jbarry/irish-gpt2 HTTP/1.1" 200 1595
+2025-04-27 23:29:26,111 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/jbarry/irish-gpt2/commits/main HTTP/1.1" 200 1425
+2025-04-27 23:29:26,265 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/jbarry/irish-gpt2/discussions?p=0 HTTP/1.1" 200 1274
+2025-04-27 23:29:26,479 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/jbarry/irish-gpt2/commits/refs%2Fpr%2F2 HTTP/1.1" 200 2390
+2025-04-27 23:29:26,644 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /jbarry/irish-gpt2/resolve/refs%2Fpr%2F2/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-27 23:29:26,785 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /jbarry/irish-gpt2/resolve/refs%2Fpr%2F2/model.safetensors HTTP/1.1" 302 0
+2025-04-27 23:31:14,190 - root - INFO - finished Irish
+2025-04-27 23:31:14,191 - root - INFO - starting Italian
+2025-04-27 23:31:14,332 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /GroNLP/gpt2-medium-italian-embeddings/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:31:14,402 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /GroNLP/gpt2-medium-italian-embeddings/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:31:14,522 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /GroNLP/gpt2-medium-italian-embeddings/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-27 23:55:03,862 - root - INFO - finished Italian
+2025-04-27 23:55:03,863 - root - INFO - starting Japanese
+2025-04-27 23:55:03,942 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-27 23:55:04,061 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rinna/japanese-gpt2-medium/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-27 23:55:04,251 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rinna/japanese-gpt2-medium/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-27 23:55:04,372 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /rinna/japanese-gpt2-medium/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:28,373 - root - INFO - finished Japanese
+2025-04-28 00:05:28,374 - root - INFO - starting Korean
+2025-04-28 00:05:28,450 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 00:05:28,574 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:28,676 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 00:05:28,733 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:28,806 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/vocab.json HTTP/1.1" 404 0
+2025-04-28 00:05:28,872 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/merges.txt HTTP/1.1" 404 0
+2025-04-28 00:05:28,934 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,000 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,062 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,201 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-28 00:05:29,309 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,359 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 00:05:29,416 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,501 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/vocab.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,614 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/merges.txt HTTP/1.1" 404 0
+2025-04-28 00:05:29,726 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,780 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,836 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:29,895 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-28 00:05:29,997 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:30,049 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 00:05:30,103 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:30,158 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/vocab.json HTTP/1.1" 404 0
+2025-04-28 00:05:30,294 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/merges.txt HTTP/1.1" 404 0
+2025-04-28 00:05:30,348 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-28 00:05:30,403 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2025-04-28 00:05:30,459 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:30,514 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /skt/kogpt2-base-v2/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-28 00:05:30,567 - root - ERROR - ERROR ON LANG Korean
+2025-04-28 00:05:30,567 - root - ERROR - [-] expected str, bytes or os.PathLike object, not NoneType
+2025-04-28 00:05:30,577 - root - INFO - starting Norwegian
+2025-04-28 00:05:30,658 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pere/norwegian-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 00:05:30,836 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pere/norwegian-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 00:05:30,903 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pere/norwegian-gpt2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 00:05:30,910 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 00:05:31,029 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pere/norwegian-gpt2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 00:05:31,051 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pere/norwegian-gpt2 HTTP/1.1" 200 1731
+2025-04-28 00:05:31,182 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pere/norwegian-gpt2/commits/main HTTP/1.1" 200 7342
+2025-04-28 00:05:31,306 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pere/norwegian-gpt2/discussions?p=0 HTTP/1.1" 200 715
+2025-04-28 00:05:31,414 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pere/norwegian-gpt2/commits/refs%2Fpr%2F1 HTTP/1.1" 200 8307
+2025-04-28 00:05:31,488 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pere/norwegian-gpt2/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 00:05:31,555 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pere/norwegian-gpt2/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 00:10:25,142 - root - INFO - finished Norwegian
+2025-04-28 00:10:25,143 - root - INFO - starting Persian
+2025-04-28 00:10:25,192 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 00:10:25,320 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /bolbolzaban/gpt2-persian/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 00:10:25,473 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /bolbolzaban/gpt2-persian/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 00:10:25,533 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /bolbolzaban/gpt2-persian/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 00:10:25,536 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 00:10:25,694 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/bolbolzaban/gpt2-persian HTTP/1.1" 200 1638
+2025-04-28 00:10:25,952 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/bolbolzaban/gpt2-persian/commits/main HTTP/1.1" 200 2354
+2025-04-28 00:10:26,024 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/bolbolzaban/gpt2-persian/discussions?p=0 HTTP/1.1" 200 2416
+2025-04-28 00:10:26,123 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/bolbolzaban/gpt2-persian/commits/refs%2Fpr%2F1 HTTP/1.1" 200 3319
+2025-04-28 00:10:26,285 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /bolbolzaban/gpt2-persian/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 00:10:26,340 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /bolbolzaban/gpt2-persian/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 00:10:26,885 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /bolbolzaban/gpt2-persian/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 00:26:55,334 - root - INFO - finished Persian
+2025-04-28 00:26:55,334 - root - INFO - starting Polish
+2025-04-28 00:26:55,417 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 00:26:55,561 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/papuGaPT2/resolve/main/tokenizer_config.json HTTP/1.1" 302 0
+2025-04-28 00:26:55,686 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/papuGaPT2/resolve/main/config.json HTTP/1.1" 302 0
+2025-04-28 00:26:55,824 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/papuGaPT2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 00:26:55,828 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 00:26:55,933 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/papuGaPT2 HTTP/1.1" 200 4316
+2025-04-28 00:26:55,937 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/papuGaPT2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 00:26:56,095 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/papuGaPT2/commits/main HTTP/1.1" 200 12373
+2025-04-28 00:26:56,357 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/papuGaPT2/commits/main?p=1 HTTP/1.1" 200 11493
+2025-04-28 00:26:56,505 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/papuGaPT2/discussions?p=0 HTTP/1.1" 200 11982
+2025-04-28 00:26:56,694 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/papuGaPT2/commits/refs%2Fpr%2F18 HTTP/1.1" 200 13105
+2025-04-28 00:26:56,881 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/papuGaPT2/commits/refs%2Fpr%2F18?p=1 HTTP/1.1" 200 11726
+2025-04-28 00:26:57,045 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/papuGaPT2/commits/refs%2Fpr%2F18?p=2 HTTP/1.1" 200 2
+2025-04-28 00:26:57,195 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/papuGaPT2/resolve/refs%2Fpr%2F18/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 00:26:57,458 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/papuGaPT2/resolve/refs%2Fpr%2F18/model.safetensors HTTP/1.1" 302 0
+2025-04-28 00:32:35,363 - root - INFO - finished Polish
+2025-04-28 00:32:35,364 - root - INFO - starting Portuguese
+2025-04-28 00:32:35,445 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 00:32:35,569 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pierreguillou/gpt2-small-portuguese/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 00:32:35,657 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pierreguillou/gpt2-small-portuguese/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 00:32:35,763 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pierreguillou/gpt2-small-portuguese/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 00:32:35,770 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 00:32:35,944 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pierreguillou/gpt2-small-portuguese/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 00:32:35,954 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pierreguillou/gpt2-small-portuguese HTTP/1.1" 200 1996
+2025-04-28 00:32:36,049 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pierreguillou/gpt2-small-portuguese/commits/main HTTP/1.1" 200 3283
+2025-04-28 00:32:36,290 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pierreguillou/gpt2-small-portuguese/discussions?p=0 HTTP/1.1" 200 1317
+2025-04-28 00:32:36,471 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/pierreguillou/gpt2-small-portuguese/commits/refs%2Fpr%2F2 HTTP/1.1" 200 4248
+2025-04-28 00:32:36,627 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pierreguillou/gpt2-small-portuguese/resolve/refs%2Fpr%2F2/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 00:32:37,005 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /pierreguillou/gpt2-small-portuguese/resolve/refs%2Fpr%2F2/model.safetensors HTTP/1.1" 302 0
+2025-04-28 00:46:56,128 - root - INFO - finished Portuguese
+2025-04-28 00:46:56,129 - root - INFO - starting Romanian
+2025-04-28 00:46:56,180 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 00:46:56,314 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /readerbench/RoGPT2-medium/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 00:46:56,473 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /readerbench/RoGPT2-medium/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 00:46:56,529 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /readerbench/RoGPT2-medium/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 00:46:56,534 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 00:46:56,639 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/readerbench/RoGPT2-medium HTTP/1.1" 200 1691
+2025-04-28 00:46:56,672 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /readerbench/RoGPT2-medium/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 00:46:56,735 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/readerbench/RoGPT2-medium/commits/main HTTP/1.1" 200 1466
+2025-04-28 00:46:56,801 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/readerbench/RoGPT2-medium/discussions?p=0 HTTP/1.1" 200 727
+2025-04-28 00:46:56,953 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/readerbench/RoGPT2-medium/commits/refs%2Fpr%2F1 HTTP/1.1" 200 2431
+2025-04-28 00:46:57,094 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /readerbench/RoGPT2-medium/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 00:46:57,162 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /readerbench/RoGPT2-medium/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 01:13:25,545 - root - INFO - finished Romanian
+2025-04-28 01:13:25,547 - root - INFO - starting Russian
+2025-04-28 01:13:25,650 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 01:13:26,107 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/rugpt3small_based_on_gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 01:13:26,223 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/rugpt3small_based_on_gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 01:13:26,276 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/rugpt3small_based_on_gpt2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 01:13:26,282 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 01:13:26,433 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/rugpt3small_based_on_gpt2 HTTP/1.1" 200 2526
+2025-04-28 01:13:26,463 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/rugpt3small_based_on_gpt2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 01:13:26,527 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/rugpt3small_based_on_gpt2/commits/main HTTP/1.1" 200 3237
+2025-04-28 01:13:26,629 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/rugpt3small_based_on_gpt2/discussions?p=0 HTTP/1.1" 200 4516
+2025-04-28 01:13:26,748 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/rugpt3small_based_on_gpt2/commits/refs%2Fpr%2F6 HTTP/1.1" 200 4202
+2025-04-28 01:13:26,816 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/rugpt3small_based_on_gpt2/resolve/refs%2Fpr%2F6/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 01:13:26,880 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/rugpt3small_based_on_gpt2/resolve/refs%2Fpr%2F6/model.safetensors HTTP/1.1" 302 0
+2025-04-28 01:23:03,131 - root - INFO - finished Russian
+2025-04-28 01:23:03,132 - root - INFO - starting Slovenian
+2025-04-28 01:23:03,204 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 01:23:03,469 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 01:23:03,533 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 01:23:03,597 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 01:23:03,721 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-28 01:23:03,900 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 01:23:03,966 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 01:23:03,973 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 01:23:04,072 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/sl-gpt2 HTTP/1.1" 200 1228
+2025-04-28 01:23:04,091 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 01:23:04,157 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/sl-gpt2/commits/main HTTP/1.1" 200 1049
+2025-04-28 01:23:04,213 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/sl-gpt2/discussions?p=0 HTTP/1.1" 200 722
+2025-04-28 01:23:04,383 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/macedonizer/sl-gpt2/commits/refs%2Fpr%2F1 HTTP/1.1" 200 2014
+2025-04-28 01:23:04,444 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 01:23:04,505 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /macedonizer/sl-gpt2/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 01:26:09,260 - root - INFO - finished Slovenian
+2025-04-28 01:26:09,261 - root - INFO - starting Spanish
+2025-04-28 01:26:09,451 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /DeepESP/gpt2-spanish/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 01:26:09,536 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /DeepESP/gpt2-spanish/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 01:26:09,594 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /DeepESP/gpt2-spanish/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 01:26:09,596 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 01:26:09,715 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/DeepESP/gpt2-spanish HTTP/1.1" 200 1680
+2025-04-28 01:26:09,771 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /DeepESP/gpt2-spanish/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 01:26:09,839 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/DeepESP/gpt2-spanish/commits/main HTTP/1.1" 200 4462
+2025-04-28 01:26:09,983 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/DeepESP/gpt2-spanish/discussions?p=0 HTTP/1.1" 200 1872
+2025-04-28 01:26:10,170 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/DeepESP/gpt2-spanish/commits/refs%2Fpr%2F2 HTTP/1.1" 200 4767
+2025-04-28 01:26:10,238 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /DeepESP/gpt2-spanish/resolve/refs%2Fpr%2F2/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 01:26:10,394 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /DeepESP/gpt2-spanish/resolve/refs%2Fpr%2F2/model.safetensors HTTP/1.1" 302 0
+2025-04-28 01:33:54,503 - root - INFO - finished Spanish
+2025-04-28 01:33:54,505 - root - INFO - starting Turkish
+2025-04-28 01:33:54,583 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 01:33:54,762 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /redrussianarmy/gpt2-turkish-cased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 01:33:54,852 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /redrussianarmy/gpt2-turkish-cased/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 01:33:55,392 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /redrussianarmy/gpt2-turkish-cased/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 01:33:55,400 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 01:33:55,584 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /redrussianarmy/gpt2-turkish-cased/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 01:33:55,618 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/redrussianarmy/gpt2-turkish-cased HTTP/1.1" 200 1759
+2025-04-28 01:33:55,822 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/redrussianarmy/gpt2-turkish-cased/commits/main HTTP/1.1" 200 4205
+2025-04-28 01:33:55,972 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/redrussianarmy/gpt2-turkish-cased/discussions?p=0 HTTP/1.1" 200 1886
+2025-04-28 01:33:56,202 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/redrussianarmy/gpt2-turkish-cased/commits/refs%2Fpr%2F2 HTTP/1.1" 200 4510
+2025-04-28 01:33:56,365 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /redrussianarmy/gpt2-turkish-cased/resolve/refs%2Fpr%2F2/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 01:33:56,593 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /redrussianarmy/gpt2-turkish-cased/resolve/refs%2Fpr%2F2/model.safetensors HTTP/1.1" 302 0
+2025-04-28 01:43:31,762 - root - INFO - finished Turkish
+2025-04-28 01:43:31,764 - root - INFO - starting Armenian
+2025-04-28 01:43:31,836 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 01:43:32,014 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 01:43:32,082 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 01:43:32,134 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+2025-04-28 01:43:32,223 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-28 01:43:32,376 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 01:43:32,440 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 01:43:32,443 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 01:43:32,548 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-armenian HTTP/1.1" 200 1410
+2025-04-28 01:43:32,634 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-armenian/commits/main HTTP/1.1" 200 1679
+2025-04-28 01:43:32,693 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-armenian/discussions?p=0 HTTP/1.1" 200 726
+2025-04-28 01:43:32,881 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-armenian/commits/refs%2Fpr%2F1 HTTP/1.1" 200 2644
+2025-04-28 01:43:32,937 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 01:43:32,996 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 01:43:36,535 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-armenian/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:31:41,830 - root - INFO - finished Armenian
+2025-04-28 03:31:41,831 - root - INFO - starting Georgian
+2025-04-28 03:31:41,897 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 03:31:42,121 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Kuduxaaa/gpt2-geo/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:31:42,259 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Kuduxaaa/gpt2-geo/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:31:42,376 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /Kuduxaaa/gpt2-geo/resolve/main/generation_config.json HTTP/1.1" 200 0
+2025-04-28 03:32:47,577 - root - INFO - finished Georgian
+2025-04-28 03:32:47,578 - root - INFO - starting Greek
+2025-04-28 03:32:47,717 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:32:47,794 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:32:47,848 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:32:48,106 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/main/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:32:48,165 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2025-04-28 03:32:48,197 - filelock - DEBUG - Attempting to acquire lock 15068707680 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/a0bc5fb444ffe220d94afb3e26515970f42dea15f33848dad80d30e4752ad686.lock
+2025-04-28 03:32:48,198 - filelock - DEBUG - Lock 15068707680 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/a0bc5fb444ffe220d94afb3e26515970f42dea15f33848dad80d30e4752ad686.lock
+2025-04-28 03:32:48,206 - urllib3.connectionpool - DEBUG - Resetting dropped connection: cdn-lfs.hf.co
+2025-04-28 03:32:48,716 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /nikokons/gpt2-greek/a0bc5fb444ffe220d94afb3e26515970f42dea15f33848dad80d30e4752ad686?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1745829168&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgyOTE2OH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9uaWtva29ucy9ncHQyLWdyZWVrL2EwYmM1ZmI0NDRmZmUyMjBkOTRhZmIzZTI2NTE1OTcwZjQyZGVhMTVmMzM4NDhkYWQ4MGQzMGU0NzUyYWQ2ODY~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=XJ3k8BxUuzy6OG8Y2G7I7kIxQHQ~nrrtz1u0Ubc7eOD0TnKTcYVbw8QtrpiX4xMv~03Wk7jwmwEXLYe2lAbUCa9t-8s42Evh495Rl3ASILIScGyiMyLLyNE2RsoxUYyitvDiNbhIlzt5Y4hvUfW5Z1U4v1WJ9DCJH9lPW3oUP3BxYuoXmpfYal-q7DbNDhw9czkQYIZanEdmJw17ke~oOgjKJ-77O8HQa0n8rDHDpSVjVVitR5NO0mKi7-wZVSX3B4OYLPXiFmgMzj~Y04PTsjsfLCVByzXNg27hFe3t3T0W9RQLMSgLgEwcext08-cRVqFls0d69xKnSsE0222daw__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 421996139
+2025-04-28 03:33:09,153 - filelock - DEBUG - Attempting to release lock 15068707680 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/a0bc5fb444ffe220d94afb3e26515970f42dea15f33848dad80d30e4752ad686.lock
+2025-04-28 03:33:09,153 - filelock - DEBUG - Lock 15068707680 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/a0bc5fb444ffe220d94afb3e26515970f42dea15f33848dad80d30e4752ad686.lock
+2025-04-28 03:33:09,232 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:33:09,247 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 03:33:09,402 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:33:09,425 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/nikokons/gpt2-greek HTTP/1.1" 200 1144
+2025-04-28 03:33:09,628 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/nikokons/gpt2-greek/commits/main HTTP/1.1" 200 7300
+2025-04-28 03:33:09,716 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/nikokons/gpt2-greek/discussions?p=0 HTTP/1.1" 200 2610
+2025-04-28 03:33:09,941 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/nikokons/gpt2-greek/commits/refs%2Fpr%2F4 HTTP/1.1" 200 8265
+2025-04-28 03:33:10,020 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/refs%2Fpr%2F4/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:33:10,128 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /nikokons/gpt2-greek/resolve/refs%2Fpr%2F4/model.safetensors HTTP/1.1" 302 0
+2025-04-28 03:33:10,183 - filelock - DEBUG - Attempting to acquire lock 16547005264 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/d03b35b9f381f9426cd34c29d7c610d6f5544a2993acc567e2589a1ecfa3e07b.lock
+2025-04-28 03:33:10,186 - filelock - DEBUG - Lock 16547005264 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/d03b35b9f381f9426cd34c29d7c610d6f5544a2993acc567e2589a1ecfa3e07b.lock
+2025-04-28 03:33:10,197 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2025-04-28 03:33:10,509 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /nikokons/gpt2-greek/d03b35b9f381f9426cd34c29d7c610d6f5544a2993acc567e2589a1ecfa3e07b?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1745829190&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgyOTE5MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9uaWtva29ucy9ncHQyLWdyZWVrL2QwM2IzNWI5ZjM4MWY5NDI2Y2QzNGMyOWQ3YzYxMGQ2ZjU1NDRhMjk5M2FjYzU2N2UyNTg5YTFlY2ZhM2UwN2I~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=u0gsi3-MZF~3nvryWeMxIpxmpma1D0SlYfyzPQMD3~ZxWj~jGYJswm6hRuE7pthuqxRBvG~UH4Hj9uzsgoPpdVUT2diXE5lI22UwVnzXuL4CY3dxA3LDjdIo8k8nOHXZ9VozlBenbUNAlAbERcab2h3jiDRJtQ6QVudmRzviwz8vTclt8UhNB~~Lg0f1u~WOXCcuSHzbqWMAFX-zNJlWUQl47-WQSL4RB53ASbziYDmvOwpC9tr98MYtAiyA8gpglnU-D6CidyJqBKVr-Gt3NhRFGZaNAU7Y1U~yVOXou3Oq0rVuMQ6WYoqcF0HxwBde3LCCoMoenhKqLey9kFDaCA__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 421980040
+2025-04-28 03:33:29,778 - filelock - DEBUG - Attempting to release lock 16547005264 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/d03b35b9f381f9426cd34c29d7c610d6f5544a2993acc567e2589a1ecfa3e07b.lock
+2025-04-28 03:33:29,778 - filelock - DEBUG - Lock 16547005264 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--nikokons--gpt2-greek/d03b35b9f381f9426cd34c29d7c610d6f5544a2993acc567e2589a1ecfa3e07b.lock
+2025-04-28 03:43:37,223 - root - INFO - finished Greek
+2025-04-28 03:43:37,223 - root - INFO - starting Hungarian
+2025-04-28 03:43:37,282 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 03:43:37,419 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /NYTK/PULI-GPT-2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:43:37,512 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /NYTK/PULI-GPT-2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:43:37,564 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /NYTK/PULI-GPT-2/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:43:37,567 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 03:43:37,757 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/NYTK/PULI-GPT-2 HTTP/1.1" 200 1754
+2025-04-28 03:43:37,761 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /NYTK/PULI-GPT-2/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:43:37,854 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/NYTK/PULI-GPT-2/commits/main HTTP/1.1" 200 2254
+2025-04-28 03:43:37,962 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/NYTK/PULI-GPT-2/discussions?p=0 HTTP/1.1" 200 2006
+2025-04-28 03:43:38,102 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/NYTK/PULI-GPT-2/commits/refs%2Fpr%2F3 HTTP/1.1" 200 3219
+2025-04-28 03:43:38,279 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /NYTK/PULI-GPT-2/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:43:38,407 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /NYTK/PULI-GPT-2/resolve/refs%2Fpr%2F3/model.safetensors HTTP/1.1" 302 0
+2025-04-28 03:45:00,027 - root - INFO - finished Hungarian
+2025-04-28 03:45:00,028 - root - INFO - starting Kyrgyz
+2025-04-28 03:45:00,138 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-kirgiz/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:45:00,273 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-kirgiz/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:45:00,385 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-kirgiz/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:45:00,390 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 03:45:00,589 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-kirgiz/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:45:00,591 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-kirgiz HTTP/1.1" 200 1752
+2025-04-28 03:45:00,710 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-kirgiz/commits/main HTTP/1.1" 200 1770
+2025-04-28 03:45:00,847 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-kirgiz/discussions?p=0 HTTP/1.1" 200 729
+2025-04-28 03:45:01,082 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/ai-forever/mGPT-1.3B-kirgiz/commits/refs%2Fpr%2F1 HTTP/1.1" 200 2735
+2025-04-28 03:45:01,137 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-kirgiz/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:45:01,189 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /ai-forever/mGPT-1.3B-kirgiz/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 03:50:23,064 - root - INFO - finished Kyrgyz
+2025-04-28 03:50:23,066 - root - INFO - starting Lithuanian
+2025-04-28 03:50:23,131 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 03:50:23,272 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /domce20/GPT2-Lithuanian/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:50:23,415 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /domce20/GPT2-Lithuanian/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:50:24,105 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /domce20/GPT2-Lithuanian/resolve/main/generation_config.json HTTP/1.1" 200 0
+2025-04-28 03:54:39,631 - root - INFO - finished Lithuanian
+2025-04-28 03:54:39,633 - root - INFO - starting Thai
+2025-04-28 03:54:39,695 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 03:54:39,906 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:54:40,011 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:54:40,064 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:54:40,119 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/main/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:54:40,178 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2025-04-28 03:54:40,212 - filelock - DEBUG - Attempting to acquire lock 15245526080 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/d0691a41897b2759e59f2c34c00c20b1534726950c84127b56073c4687a8560e.lock
+2025-04-28 03:54:40,213 - filelock - DEBUG - Lock 15245526080 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/d0691a41897b2759e59f2c34c00c20b1534726950c84127b56073c4687a8560e.lock
+2025-04-28 03:54:40,220 - urllib3.connectionpool - DEBUG - Resetting dropped connection: cdn-lfs.hf.co
+2025-04-28 03:54:40,598 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /flax-community/gpt2-base-thai/d0691a41897b2759e59f2c34c00c20b1534726950c84127b56073c4687a8560e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1745830480&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgzMDQ4MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mbGF4LWNvbW11bml0eS9ncHQyLWJhc2UtdGhhaS9kMDY5MWE0MTg5N2IyNzU5ZTU5ZjJjMzRjMDBjMjBiMTUzNDcyNjk1MGM4NDEyN2I1NjA3M2M0Njg3YTg1NjBlP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiZyZXNwb25zZS1jb250ZW50LXR5cGU9KiJ9XX0_&Signature=MNTCTB8pX3AupqPh9lHOJeggXVyJh2hpV-k7XoMrkIRecpk-GtOH1CkkM9g2Ijm7CzJgHmrXSWX9EfIWvZntEKx~sQ55XiClWhQ5WNtxwELrjCky5wXO-dwDmdKqMkZ3jw3tzsAek773J3RecVov7tPUho9jl0B5jLBjaPeJOT8eu0SeU1IV9Wq7hf52gBzUhp-Vsxpe0CmPH39mmzIPfT-X9xLbp-gmuVQ8VS8Z0FK5p7QgqVJM-wGanUGd9Mfg-qFDzbncWv3Rg1v1LO-U~o~-Z9p1-9k2zzFN7xvnudlaAzKrGy6rbCSk04iUXXOQPsctCdxiZvwRO0ePxqxjhQ__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 510401385
+2025-04-28 03:54:53,991 - filelock - DEBUG - Attempting to release lock 15245526080 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/d0691a41897b2759e59f2c34c00c20b1534726950c84127b56073c4687a8560e.lock
+2025-04-28 03:54:53,991 - filelock - DEBUG - Lock 15245526080 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/d0691a41897b2759e59f2c34c00c20b1534726950c84127b56073c4687a8560e.lock
+2025-04-28 03:54:54,111 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:54:54,138 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-28 03:54:54,254 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/gpt2-base-thai HTTP/1.1" 200 1839
+2025-04-28 03:54:54,337 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/gpt2-base-thai/commits/main HTTP/1.1" 200 2731
+2025-04-28 03:54:54,354 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:54:54,410 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/gpt2-base-thai/discussions?p=0 HTTP/1.1" 200 734
+2025-04-28 03:54:54,599 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/flax-community/gpt2-base-thai/commits/refs%2Fpr%2F1 HTTP/1.1" 200 3036
+2025-04-28 03:54:54,764 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:54:54,825 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/gpt2-base-thai/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 03:54:54,828 - filelock - DEBUG - Attempting to acquire lock 16547009248 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/98d38ae219e1b657fa36f3a4700843201edfc8c1df0ae077ff1c59faf9e54e1d.lock
+2025-04-28 03:54:54,828 - filelock - DEBUG - Lock 16547009248 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/98d38ae219e1b657fa36f3a4700843201edfc8c1df0ae077ff1c59faf9e54e1d.lock
+2025-04-28 03:54:54,831 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2025-04-28 03:54:54,928 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /flax-community/gpt2-base-thai/98d38ae219e1b657fa36f3a4700843201edfc8c1df0ae077ff1c59faf9e54e1d?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1745830494&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgzMDQ5NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mbGF4LWNvbW11bml0eS9ncHQyLWJhc2UtdGhhaS85OGQzOGFlMjE5ZTFiNjU3ZmEzNmYzYTQ3MDA4NDMyMDFlZGZjOGMxZGYwYWUwNzdmZjFjNTlmYWY5ZTU0ZTFkP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=kLI6ZF-eyNBQmiyBHpwwHpTiaLdhifjq5S1kLfpWcJh2Y4DKNsXh4GTNa0nv8lKfqm1SMSLqsPjbiKzZd8RYnUzQQXevXXtt~9cijLf1grHhr7pE97TAD2lbLBmbqEAuQy37fBFWLmPKgQGTFxiIxry3B16vwfyTDnO7rFL8OdO4NF18TRP9EvKU7W0j5toTY8Bz2U~nb9p1TzS~xr2BdTrD8WV0u1xhJcudZQWVhwISHwxD1E4he8SX-JBzlLpMVfQu6nOiLOQxqfXsH5vvrj95M2-0TweiWjQ5TeyMZGn00u4TrrOFxweWmUzh1azz8R4uV4WJ1FrQCed6xz8PuA__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 510359598
+2025-04-28 03:55:07,921 - filelock - DEBUG - Attempting to release lock 16547009248 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/98d38ae219e1b657fa36f3a4700843201edfc8c1df0ae077ff1c59faf9e54e1d.lock
+2025-04-28 03:55:07,921 - filelock - DEBUG - Lock 16547009248 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--gpt2-base-thai/98d38ae219e1b657fa36f3a4700843201edfc8c1df0ae077ff1c59faf9e54e1d.lock
+2025-04-28 03:55:19,422 - root - INFO - finished Thai
+2025-04-28 03:55:19,423 - root - INFO - starting Uyghur
+2025-04-28 03:55:19,602 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:55:19,604 - filelock - DEBUG - Attempting to acquire lock 14735757136 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/e42c7b4c958b7c7f1066ed5ad26107a6cdbd0daf.lock
+2025-04-28 03:55:19,604 - filelock - DEBUG - Lock 14735757136 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/e42c7b4c958b7c7f1066ed5ad26107a6cdbd0daf.lock
+2025-04-28 03:55:19,665 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /benjamin/gpt2-wechsel-uyghur/resolve/main/tokenizer_config.json HTTP/1.1" 200 250
+2025-04-28 03:55:19,670 - filelock - DEBUG - Attempting to release lock 14735757136 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/e42c7b4c958b7c7f1066ed5ad26107a6cdbd0daf.lock
+2025-04-28 03:55:19,670 - filelock - DEBUG - Lock 14735757136 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/e42c7b4c958b7c7f1066ed5ad26107a6cdbd0daf.lock
+2025-04-28 03:55:19,814 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-28 03:55:19,815 - filelock - DEBUG - Attempting to acquire lock 14735764048 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/013c046243954fa5196e97c25d08514fed5a3ef7.lock
+2025-04-28 03:55:19,815 - filelock - DEBUG - Lock 14735764048 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/013c046243954fa5196e97c25d08514fed5a3ef7.lock
+2025-04-28 03:55:19,987 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /benjamin/gpt2-wechsel-uyghur/resolve/main/vocab.json HTTP/1.1" 200 1782813
+2025-04-28 03:55:20,140 - filelock - DEBUG - Attempting to release lock 14735764048 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/013c046243954fa5196e97c25d08514fed5a3ef7.lock
+2025-04-28 03:55:20,140 - filelock - DEBUG - Lock 14735764048 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/013c046243954fa5196e97c25d08514fed5a3ef7.lock
+2025-04-28 03:55:20,281 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/merges.txt HTTP/1.1" 200 0
+2025-04-28 03:55:20,283 - filelock - DEBUG - Attempting to acquire lock 14735767840 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/3157ae7a5d75bf4dfa9cda298754744000df6248.lock
+2025-04-28 03:55:20,284 - filelock - DEBUG - Lock 14735767840 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/3157ae7a5d75bf4dfa9cda298754744000df6248.lock
+2025-04-28 03:55:20,371 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /benjamin/gpt2-wechsel-uyghur/resolve/main/merges.txt HTTP/1.1" 200 1441328
+2025-04-28 03:55:20,435 - filelock - DEBUG - Attempting to release lock 14735767840 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/3157ae7a5d75bf4dfa9cda298754744000df6248.lock
+2025-04-28 03:55:20,436 - filelock - DEBUG - Lock 14735767840 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/3157ae7a5d75bf4dfa9cda298754744000df6248.lock
+2025-04-28 03:55:20,494 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-28 03:55:20,553 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/special_tokens_map.json HTTP/1.1" 200 0
+2025-04-28 03:55:20,555 - filelock - DEBUG - Attempting to acquire lock 14735765824 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/817762d631ad6f9c799f6b9dc713c46420e65546.lock
+2025-04-28 03:55:20,556 - filelock - DEBUG - Lock 14735765824 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/817762d631ad6f9c799f6b9dc713c46420e65546.lock
+2025-04-28 03:55:20,614 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /benjamin/gpt2-wechsel-uyghur/resolve/main/special_tokens_map.json HTTP/1.1" 200 90
+2025-04-28 03:55:20,631 - filelock - DEBUG - Attempting to release lock 14735765824 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/817762d631ad6f9c799f6b9dc713c46420e65546.lock
+2025-04-28 03:55:20,632 - filelock - DEBUG - Lock 14735765824 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/817762d631ad6f9c799f6b9dc713c46420e65546.lock
+2025-04-28 03:55:20,807 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-28 03:55:20,809 - filelock - DEBUG - Attempting to acquire lock 14735753536 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/89376be95ff3dcce231333a20641885d2400cd01.lock
+2025-04-28 03:55:20,809 - filelock - DEBUG - Lock 14735753536 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/89376be95ff3dcce231333a20641885d2400cd01.lock
+2025-04-28 03:55:20,882 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /benjamin/gpt2-wechsel-uyghur/resolve/main/tokenizer.json HTTP/1.1" 200 3324759
+2025-04-28 03:55:20,966 - filelock - DEBUG - Attempting to release lock 14735753536 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/89376be95ff3dcce231333a20641885d2400cd01.lock
+2025-04-28 03:55:20,966 - filelock - DEBUG - Lock 14735753536 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/89376be95ff3dcce231333a20641885d2400cd01.lock
+2025-04-28 03:55:21,021 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/chat_template.jinja HTTP/1.1" 404 0
+2025-04-28 03:55:21,154 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:55:21,154 - filelock - DEBUG - Attempting to acquire lock 15382992640 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/26d36c27903771ae369f37297da2b3215e5dcde8.lock
+2025-04-28 03:55:21,154 - filelock - DEBUG - Lock 15382992640 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/26d36c27903771ae369f37297da2b3215e5dcde8.lock
+2025-04-28 03:55:21,209 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /benjamin/gpt2-wechsel-uyghur/resolve/main/config.json HTTP/1.1" 200 912
+2025-04-28 03:55:21,215 - filelock - DEBUG - Attempting to release lock 15382992640 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/26d36c27903771ae369f37297da2b3215e5dcde8.lock
+2025-04-28 03:55:21,215 - filelock - DEBUG - Lock 15382992640 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/26d36c27903771ae369f37297da2b3215e5dcde8.lock
+2025-04-28 03:55:21,330 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:55:21,390 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:55:21,447 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2025-04-28 03:55:21,453 - filelock - DEBUG - Attempting to acquire lock 15382988176 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/87fceebaf493fcdf5a577b7458b572165e44ec01a4ec90ae484f1827fb46b3dd.lock
+2025-04-28 03:55:21,454 - filelock - DEBUG - Lock 15382988176 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/87fceebaf493fcdf5a577b7458b572165e44ec01a4ec90ae484f1827fb46b3dd.lock
+2025-04-28 03:55:21,686 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /repos/4c/9b/4c9b83af42071292b9c49412ef128d5bb7a6f802b3e2a6908d43b5ff6583dd1e/87fceebaf493fcdf5a577b7458b572165e44ec01a4ec90ae484f1827fb46b3dd?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1745830521&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgzMDUyMX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy80Yy85Yi80YzliODNhZjQyMDcxMjkyYjljNDk0MTJlZjEyOGQ1YmI3YTZmODAyYjNlMmE2OTA4ZDQzYjVmZjY1ODNkZDFlLzg3ZmNlZWJhZjQ5M2ZjZGY1YTU3N2I3NDU4YjU3MjE2NWU0NGVjMDFhNGVjOTBhZTQ4NGYxODI3ZmI0NmIzZGQ~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=cyMKxiYEkn5hL-kUdSfX-G3LmXqC-FtcsJ6h7OJsJ7~cgRu5cCzKDpcU~5~k5s3FmeiIe34~6mquzWdvscEIfXsO9YLEWowuq598Y7GvSx2dP4iaSm7xfUA5iwVCRciJSeh40HU3r0d6ClzY0Ke9Ka8~uY7UCFH42ySP2gZqDttO055TAIXOFzmrxbDs~hsQmPefAzaSr1mD6~AuZJcyHEb-5f1kkm0M1OTM~4ZBuawMOojbe9DQhzfhZcORZwgsNf5oXdUDut32qDw0hInM~AiE~L7i39tsNtt-vjh-jbH7dUJOF~Snh0BpfdGoUp5O1N3hyYo9EbmwCoUySpT4wQ__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 664786896
+2025-04-28 03:55:39,020 - filelock - DEBUG - Attempting to release lock 15382988176 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/87fceebaf493fcdf5a577b7458b572165e44ec01a4ec90ae484f1827fb46b3dd.lock
+2025-04-28 03:55:39,024 - filelock - DEBUG - Lock 15382988176 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/87fceebaf493fcdf5a577b7458b572165e44ec01a4ec90ae484f1827fb46b3dd.lock
+2025-04-28 03:55:39,200 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/model.safetensors HTTP/1.1" 404 0
+2025-04-28 03:55:39,213 - urllib3.connectionpool - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-28 03:55:39,334 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/benjamin/gpt2-wechsel-uyghur HTTP/1.1" 200 1619
+2025-04-28 03:55:39,374 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:55:39,436 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/benjamin/gpt2-wechsel-uyghur/commits/main HTTP/1.1" 200 803
+2025-04-28 03:55:39,686 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/benjamin/gpt2-wechsel-uyghur/discussions?p=0 HTTP/1.1" 200 1396
+2025-04-28 03:55:39,797 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/benjamin/gpt2-wechsel-uyghur/commits/refs%2Fpr%2F1 HTTP/1.1" 200 1768
+2025-04-28 03:55:39,953 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/refs%2Fpr%2F1/model.safetensors.index.json HTTP/1.1" 404 0
+2025-04-28 03:55:40,009 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /benjamin/gpt2-wechsel-uyghur/resolve/refs%2Fpr%2F1/model.safetensors HTTP/1.1" 302 0
+2025-04-28 03:55:40,012 - filelock - DEBUG - Attempting to acquire lock 15542366000 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/1e00f3767d7866057bcc637f3689f2a04982ad2bd702f7bddb8fbe682755e0a4.lock
+2025-04-28 03:55:40,012 - filelock - DEBUG - Lock 15542366000 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/1e00f3767d7866057bcc637f3689f2a04982ad2bd702f7bddb8fbe682755e0a4.lock
+2025-04-28 03:55:40,014 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2025-04-28 03:55:40,329 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /repos/4c/9b/4c9b83af42071292b9c49412ef128d5bb7a6f802b3e2a6908d43b5ff6583dd1e/1e00f3767d7866057bcc637f3689f2a04982ad2bd702f7bddb8fbe682755e0a4?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1745830540&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgzMDU0MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy80Yy85Yi80YzliODNhZjQyMDcxMjkyYjljNDk0MTJlZjEyOGQ1YmI3YTZmODAyYjNlMmE2OTA4ZDQzYjVmZjY1ODNkZDFlLzFlMDBmMzc2N2Q3ODY2MDU3YmNjNjM3ZjM2ODlmMmEwNDk4MmFkMmJkNzAyZjdiZGRiOGZiZTY4Mjc1NWUwYTQ~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=hd1Rq0FDq0TFuVjJKMBW-qK8UCzy83wD4OK-~8INXpfYhjcjbUxcO-nNiKNIdkixoINa~ssrfL63oLp9L0FmfiQCE8MUMX49MnedWKxa~sjyxSa~DBY0FebpnMr8sFM88TTpDxuxQJAzcJ-FTZ2DYquAH4X87GTuRMXglNI8-pUvghO3hp9TQ6wJtjktDRS0GotUsZB0hMXpOWwRTlRrOJU8F5IdqCYirx0ei8zWH9bpyya0SDWIx32RsJ9Nj59hWWhUk9Ow0FKLaFzsF5PTfs4Pn3hGw-T1J0cSQWUBbIGowJG94PNIxsTVltrgtRlpg8-jf6LT-u01tZlk5hSJPA__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 664749320
+2025-04-28 03:55:57,049 - filelock - DEBUG - Attempting to release lock 15542366000 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/1e00f3767d7866057bcc637f3689f2a04982ad2bd702f7bddb8fbe682755e0a4.lock
+2025-04-28 03:55:57,052 - filelock - DEBUG - Lock 15542366000 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--benjamin--gpt2-wechsel-uyghur/1e00f3767d7866057bcc637f3689f2a04982ad2bd702f7bddb8fbe682755e0a4.lock
+2025-04-28 03:56:15,491 - root - INFO - finished Uyghur
+2025-04-28 03:56:15,491 - root - INFO - starting Swedish
+2025-04-28 03:56:15,606 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/swe-gpt-wiki/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:56:15,713 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/swe-gpt-wiki/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:56:15,713 - filelock - DEBUG - Attempting to acquire lock 14746153568 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/12a75adc2abd935ccfd742c68b559904bafc4677.lock
+2025-04-28 03:56:15,714 - filelock - DEBUG - Lock 14746153568 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/12a75adc2abd935ccfd742c68b559904bafc4677.lock
+2025-04-28 03:56:15,770 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /flax-community/swe-gpt-wiki/resolve/main/config.json HTTP/1.1" 200 830
+2025-04-28 03:56:15,775 - filelock - DEBUG - Attempting to release lock 14746153568 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/12a75adc2abd935ccfd742c68b559904bafc4677.lock
+2025-04-28 03:56:15,775 - filelock - DEBUG - Lock 14746153568 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/12a75adc2abd935ccfd742c68b559904bafc4677.lock
+2025-04-28 03:56:15,913 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/swe-gpt-wiki/resolve/main/model.safetensors HTTP/1.1" 302 0
+2025-04-28 03:56:15,916 - filelock - DEBUG - Attempting to acquire lock 14676099632 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/153395d464f47829f54c5169afb6e17a95e209d1f15dcf618bb15cdd76136266.lock
+2025-04-28 03:56:15,917 - filelock - DEBUG - Lock 14676099632 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/153395d464f47829f54c5169afb6e17a95e209d1f15dcf618bb15cdd76136266.lock
+2025-04-28 03:56:16,232 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /flax-community/swe-gpt-wiki/153395d464f47829f54c5169afb6e17a95e209d1f15dcf618bb15cdd76136266?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1745830575&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgzMDU3NX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mbGF4LWNvbW11bml0eS9zd2UtZ3B0LXdpa2kvMTUzMzk1ZDQ2NGY0NzgyOWY1NGM1MTY5YWZiNmUxN2E5NWUyMDlkMWYxNWRjZjYxOGJiMTVjZGQ3NjEzNjI2Nj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=iuw5WEYJbc2yFogf2N0FqaJ6LnINOh37SfgvBiXiWYvz8VkyM659u~GcZ9LoHD9nxehwpqe3L2NDmS8~t77vlsmCXQQCLjvOiyOyYb9tFnm3lZevfZP8jLN~iYIt6HUh7uSffiPC2-mMX5vFDpKQXwedHGTO0VM2Ag-w4wINvAUHDLFmNoPI6UEb50vrRwwWxuNhpHdMqIlhAZ5G-7zIrxakgPPSgh6TCVYaN4yfQJYc9cf3aiUIUjUldEmp82ehiz25Vt196znCoGu82TIVH4sHpkEV6g1rrCXCZLkzcIXvY6naR~a7QBa0Hqox8q5ZIdtvJxsLR8R2pl2S6g-YsA__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 510359598
+2025-04-28 03:56:29,321 - filelock - DEBUG - Attempting to release lock 14676099632 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/153395d464f47829f54c5169afb6e17a95e209d1f15dcf618bb15cdd76136266.lock
+2025-04-28 03:56:29,321 - filelock - DEBUG - Lock 14676099632 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--flax-community--swe-gpt-wiki/153395d464f47829f54c5169afb6e17a95e209d1f15dcf618bb15cdd76136266.lock
+2025-04-28 03:56:29,563 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /flax-community/swe-gpt-wiki/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:58:37,905 - root - INFO - finished Swedish
+2025-04-28 03:58:37,906 - root - INFO - starting Icelandic
+2025-04-28 03:58:38,031 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-28 03:58:38,033 - filelock - DEBUG - Attempting to acquire lock 14688060864 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/3a9a4565bd60a84263ae89b51cdc3859e48d88b5.lock
+2025-04-28 03:58:38,033 - filelock - DEBUG - Lock 14688060864 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/3a9a4565bd60a84263ae89b51cdc3859e48d88b5.lock
+2025-04-28 03:58:38,086 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /mideind/IceBERT/resolve/main/tokenizer_config.json HTTP/1.1" 200 940
+2025-04-28 03:58:38,090 - filelock - DEBUG - Attempting to release lock 14688060864 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/3a9a4565bd60a84263ae89b51cdc3859e48d88b5.lock
+2025-04-28 03:58:38,091 - filelock - DEBUG - Lock 14688060864 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/3a9a4565bd60a84263ae89b51cdc3859e48d88b5.lock
+2025-04-28 03:58:38,143 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:58:38,143 - filelock - DEBUG - Attempting to acquire lock 15241267440 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e207f9178cfb916daf01fbb4fbd837eb04949dd2.lock
+2025-04-28 03:58:38,143 - filelock - DEBUG - Lock 15241267440 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e207f9178cfb916daf01fbb4fbd837eb04949dd2.lock
+2025-04-28 03:58:38,197 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /mideind/IceBERT/resolve/main/config.json HTTP/1.1" 200 516
+2025-04-28 03:58:38,202 - filelock - DEBUG - Attempting to release lock 15241267440 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e207f9178cfb916daf01fbb4fbd837eb04949dd2.lock
+2025-04-28 03:58:38,202 - filelock - DEBUG - Lock 15241267440 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e207f9178cfb916daf01fbb4fbd837eb04949dd2.lock
+2025-04-28 03:58:38,279 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/vocab.json HTTP/1.1" 200 0
+2025-04-28 03:58:38,279 - filelock - DEBUG - Attempting to acquire lock 14688062016 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/35dba96d39e5678c86265b475e2b71b6e98d3fe4.lock
+2025-04-28 03:58:38,280 - filelock - DEBUG - Lock 14688062016 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/35dba96d39e5678c86265b475e2b71b6e98d3fe4.lock
+2025-04-28 03:58:38,344 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /mideind/IceBERT/resolve/main/vocab.json HTTP/1.1" 200 1034907
+2025-04-28 03:58:38,390 - filelock - DEBUG - Attempting to release lock 14688062016 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/35dba96d39e5678c86265b475e2b71b6e98d3fe4.lock
+2025-04-28 03:58:38,390 - filelock - DEBUG - Lock 14688062016 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/35dba96d39e5678c86265b475e2b71b6e98d3fe4.lock
+2025-04-28 03:58:38,560 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/merges.txt HTTP/1.1" 200 0
+2025-04-28 03:58:38,562 - filelock - DEBUG - Attempting to acquire lock 14688071184 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/0a8f41bb0c45397c0bffd0e70d6df258e998c35a.lock
+2025-04-28 03:58:38,563 - filelock - DEBUG - Lock 14688071184 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/0a8f41bb0c45397c0bffd0e70d6df258e998c35a.lock
+2025-04-28 03:58:38,627 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /mideind/IceBERT/resolve/main/merges.txt HTTP/1.1" 200 595064
+2025-04-28 03:58:38,659 - filelock - DEBUG - Attempting to release lock 14688071184 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/0a8f41bb0c45397c0bffd0e70d6df258e998c35a.lock
+2025-04-28 03:58:38,659 - filelock - DEBUG - Lock 14688071184 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/0a8f41bb0c45397c0bffd0e70d6df258e998c35a.lock
+2025-04-28 03:58:38,724 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-28 03:58:38,782 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/special_tokens_map.json HTTP/1.1" 200 0
+2025-04-28 03:58:38,785 - filelock - DEBUG - Attempting to acquire lock 14766131056 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e97d1993365bb21c88f390e8703e4c1af564821f.lock
+2025-04-28 03:58:38,785 - filelock - DEBUG - Lock 14766131056 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e97d1993365bb21c88f390e8703e4c1af564821f.lock
+2025-04-28 03:58:38,841 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /mideind/IceBERT/resolve/main/special_tokens_map.json HTTP/1.1" 200 772
+2025-04-28 03:58:38,856 - filelock - DEBUG - Attempting to release lock 14766131056 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e97d1993365bb21c88f390e8703e4c1af564821f.lock
+2025-04-28 03:58:38,856 - filelock - DEBUG - Lock 14766131056 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/e97d1993365bb21c88f390e8703e4c1af564821f.lock
+2025-04-28 03:58:38,983 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/tokenizer.json HTTP/1.1" 404 0
+2025-04-28 03:58:39,042 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/chat_template.jinja HTTP/1.1" 404 0
+2025-04-28 03:58:39,163 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-28 03:58:39,243 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/model.safetensors HTTP/1.1" 302 0
+2025-04-28 03:58:39,275 - filelock - DEBUG - Attempting to acquire lock 14688070416 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/8b7daed5f856243fd7a55b5d021a5f761d11d170ff78080564e4284b3d2e485a.lock
+2025-04-28 03:58:39,276 - filelock - DEBUG - Lock 14688070416 acquired on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/8b7daed5f856243fd7a55b5d021a5f761d11d170ff78080564e4284b3d2e485a.lock
+2025-04-28 03:58:39,324 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /mideind/IceBERT/8b7daed5f856243fd7a55b5d021a5f761d11d170ff78080564e4284b3d2e485a?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1745830719&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTgzMDcxOX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9taWRlaW5kL0ljZUJFUlQvOGI3ZGFlZDVmODU2MjQzZmQ3YTU1YjVkMDIxYTVmNzYxZDExZDE3MGZmNzgwODA1NjRlNDI4NGIzZDJlNDg1YT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=FOfNhoYimEBm~it1MBwcwQtBXVjdGOL-Mufkk1JraDsdLxE~NuvHAI7cSjObZSpyMi5iCWKfl3cSxqZJ6FaAvKzPhbNsCltspTzLJL7fu~mmj1s3IeIcVS9ShScHdrfHQa63eayXreKOshbcnqvmnKeC1jNeyOADRwP10ngbFjMfw5EGdGS-aLCs-h~XhQ7KU1e5bWaFWRYO3LtYZmiMDdXs5q0YJ7N29K3DRuH~uoFjr0Wtw1HA7j0q-j1lvuPKsrLlMhQjwo2JHxD87bRB8-~APnCl2v7uQte1k3qeW3RKsxBqPGXOzE3KfyTzfFuEPmBP8t7QWa2SZQnCNANGsg__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 651803232
+2025-04-28 03:58:56,117 - filelock - DEBUG - Attempting to release lock 14688070416 on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/8b7daed5f856243fd7a55b5d021a5f761d11d170ff78080564e4284b3d2e485a.lock
+2025-04-28 03:58:56,118 - filelock - DEBUG - Lock 14688070416 released on /Users/simonchervenak/.cache/huggingface/hub/.locks/models--mideind--IceBERT/8b7daed5f856243fd7a55b5d021a5f761d11d170ff78080564e4284b3d2e485a.lock
+2025-04-28 03:58:56,289 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /mideind/IceBERT/resolve/main/generation_config.json HTTP/1.1" 404 0
+2025-04-28 03:59:09,747 - root - ERROR - ERROR ON LANG Icelandic
+2025-04-28 03:59:09,748 - root - ERROR - [-] division by zero
+2025-04-28 09:19:46,117 - Comm - DEBUG - handle_msg[d5a51f33-46cd-44c7-9fe9-435c7ac5de15]({'header': {'date': datetime.datetime(2025, 4, 28, 13, 19, 46, 108000, tzinfo=tzutc()), 'msg_id': '8e91d0df-788b-4390-a38e-3e972527a939', 'msg_type': 'comm_msg', 'session': '310c14c5-21e1-4a31-8f8f-378b8c6deee8', 'username': '', 'version': '5.2'}, 'msg_id': '8e91d0df-788b-4390-a38e-3e972527a939', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'd5a51f33-46cd-44c7-9fe9-435c7ac5de15', 'data': {'method': 'request_states'}}, 'buffers': []})
+2025-04-28 09:19:46,355 - Comm - DEBUG - handle_close[d5a51f33-46cd-44c7-9fe9-435c7ac5de15]({'header': {'date': datetime.datetime(2025, 4, 28, 13, 19, 46, 353000, tzinfo=tzutc()), 'msg_id': '04d6898a-ff27-4d80-bec0-490d75002f24', 'msg_type': 'comm_close', 'session': '310c14c5-21e1-4a31-8f8f-378b8c6deee8', 'username': '', 'version': '5.2'}, 'msg_id': '04d6898a-ff27-4d80-bec0-490d75002f24', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'd5a51f33-46cd-44c7-9fe9-435c7ac5de15', 'data': {}}, 'buffers': []})
