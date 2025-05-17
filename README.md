@@ -1,7 +1,4 @@
 # flexiprisal
 Correlating ngram surprisal with typometric flexibility using Syntactic Universal Dependencies
 
-
-
-https://github.com/byungdoh/llm_surprisal?tab=readme-ov-file
-
+To run, download the UD treebanks into a folder named `ud-215`.
